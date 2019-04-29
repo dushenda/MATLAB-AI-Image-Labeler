@@ -10,7 +10,7 @@
 
    在进入工具箱之后，就需要对图片进行标定
 
-   ![](./img/在Image Labeler图片标定.png)
+   ![](./img/在Image_Labeler图片标定.png)
 
    这个需要 `New Session`-->`Load`-->`Add image from folder`-->`Define New ROI Label，Scene Label Definition`-->对每一张导入的图片都手工打标-->`Export Labels to file`。
 
