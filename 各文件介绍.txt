@@ -1,0 +1,22 @@
+cxk→存放数据集
+cxk/YUCHULI.m 将RGB图片转换为灰度图
+cxk/CAIXUKUNdetector.m 截取视频中的cxk图
+
+acfDetector3.m 存放训练好的acfDetector的结构体
+
+acfDetectortest.m 测试新训练的目标检测器的效果
+
+acfDetectortraining.m 训练目标检测器（需要训练集+标记label mat文件）
+ikun4.mat→ 训练集+标记label mat文件
+
+basreplacement1.m 使CascadeObjectDetector的篮球换脸程序
+
+basreplacement2.m 使acfDetector的篮球换脸程序
+
+lanqiu.png 篮球素材
+
+cxk.avi cxk原视频
+
+test11.avi up生成的第11个视频
+
+cxkfinal.wmv 修改后的test11.avi
