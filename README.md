@@ -13,9 +13,9 @@
 
    在进入工具箱之后，就需要对图片进行标定
 
-   ![](./img/在Image_Labeler图片标定.png)
+   ![](./img/ImageLabeler图片标定.png)
 
-   
+
    这个需要 `New Session`-->`Load`-->`Add image from folder`-->`Define New ROI Label，Scene Label Definition`-->对每一张导入的图片都手工打标-->`Export Labels to file`。
 
 3. 在打标完成导出数据之后，需要对数据进行训练，这里的 `acfDetectortraining.m`文件就是做这个用处的
